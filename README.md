@@ -1,4 +1,4 @@
-<img src="icon/sinalgo_512.png" width="100" height="100" align="right"/> 
+<img src="https://github.com/sinalgo/sinalgo-wsn/blob/master/icon/sinalgo_512.png" width="100" height="100" align="right"/> 
 
 # Sinalgo - Simulator for Network Algorithms
 
